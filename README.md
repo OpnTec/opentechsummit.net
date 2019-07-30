@@ -1,2 +1,3 @@
-# libredesktop-artwork
-Libre Desktop Artwork
+# OpenTechSummit
+Website for OpenTechSummit
+https://opentechsummit.net
